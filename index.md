@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Catholic Church Music
+
 
 You can use the [editor on GitHub](https://github.com/rarty/rarty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
