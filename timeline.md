@@ -1,5 +1,4 @@
-Liturgical Timeline (Extraordinary Form)
-=======================================
+# Liturgical Timeline of the Extraordinary Form Mass and Office
 
 1911
 ----
@@ -32,10 +31,10 @@ Liturgical Timeline (Extraordinary Form)
 ### *Quas primas* (December 1925)
   * New: Feast of Christ the King (Last Sunday of October)
 
-1929
+1928
 ----
-### After *Miserentissimus Redemptor* (May 1928) raises the feast of the Sacred Heart in rank, the S.C.R. composes new Mass and Office for the feast and octave
-  * Changed: Feast of the Sacred Heart raised in rank to double of the 1st class with privileged octave (highest rank) and re-written with all-new texts and chants
+### *Miserentissimus Redemptor* (May 1928) 
+  * Changed: Feast of the Sacred Heart raised in rank to double of the 1st class with privileged octave (highest rank) and S.C.R. composes new Mass and Office for the feast and octave (effective 1929)
 
 1950
 ----
@@ -45,7 +44,7 @@ Liturgical Timeline (Extraordinary Form)
 1951
 ----
 ### *Dominicae resurrectionis* (February 1951)
-  * New: (optional) solemn Paschal vigil at night
+  * New: (optional) solemn Easter vigil at night
 
 1954
 ----
@@ -75,15 +74,15 @@ Liturgical Timeline (Extraordinary Form)
     * St. Andrew
     * St. Thomas
     * All Saints
-    * All those in proper calendars
+    * All vigils in proper calendars
   * New: Feast of St. Pius X (September 3)
 
 * New: Feast of St. Joseph the Worker (May 1)
   * Transferred: feast of Ss. Phillip and James to May 11
-  * Suppressed: Solemnity of St. Joseph (was Wednesday in the week after Paschal Octave)
+  * Suppressed: Solemnity of St. Joseph (was Wednesday in the week after Easter Octave)
 
 ### *Maxima redemptionis* (November 1955)
-  * New: Restored Order of Holy week, with mandatory nocturnal Paschal vigil
+  * New: Restored Order of Holy week (*Ordo hebdomadae sanctae instauratus*), with mandatory nocturnal Easter vigil
   * Suppressed: Pentecost vigil with the blessing of the baptismal font
 
 1960
@@ -123,9 +122,8 @@ Liturgical Timeline (Extraordinary Form)
 2007
 ----
 ### *Summorum Pontificum* (July 7, 2007)
-* Affirms the liturgy as of 1962 as currently licit and valid.
+* Affirms the liturgy as of **1962** as currently licit and valid.
 	
 2008
 ----
-
 * Good Friday Prayer *Pro Judaeorum* re-written and promulgated (February 2008)
