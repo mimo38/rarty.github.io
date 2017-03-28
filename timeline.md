@@ -4,9 +4,9 @@ Liturgical Timeline (Extraordinary Form)
 1911
 ----
 ### *Divino Afflatu* (November 1911)
-  * Reform of the Roman Breviary
-  * Tridentine psalter suppressed, replaced with new arrangement of psalms
-  * Reclassified feasts and Sundays
+* Reform of the Roman Breviary
+* Tridentine psalter suppressed, replaced with new arrangement of psalms
+* Reclassified feasts and Sundays
 
 1913
 ----
@@ -123,8 +123,9 @@ Liturgical Timeline (Extraordinary Form)
 2007
 ----
 ### *Summorum Pontificum* (July 7, 2007)
-	* Affirms the liturgy as of 1962 as currently licit and valid.
+* Affirms the liturgy as of 1962 as currently licit and valid.
 	
 2008
----
-### Good Friday Prayer *Pro Judaeorum* re-written and promulgated (February 2008)
+----
+
+* Good Friday Prayer *Pro Judaeorum* re-written and promulgated (February 2008)
