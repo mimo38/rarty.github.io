@@ -3,14 +3,14 @@ Liturgical Timeline (Extraordinary Form)
 
 1911
 ----
-*Divino Afflatu* (November 1911)
+* *Divino Afflatu* (November 1911)
   * Reform of the Roman Breviary
   * Tridentine psalter suppressed, replaced with new arrangement of psalms
   * Reclassified feasts and Sundays
 
 1913
 ----
-*Ab hinc duos annos* (October 1913)
+* *Ab hinc duos annos* (October 1913)
   * Eliminated most feasts that were fixed on Sundays
   * Simplified observance of octaves
   * Transferred:
@@ -18,36 +18,33 @@ Liturgical Timeline (Extraordinary Form)
 
 1921
 ----
-*Sanctissimus Dominus* (October 1921)
-
-* New:
-  * Feast of the Holy Family (Sunday in Octave of Epiphany)
-  * St. Gabriel (March 24)
-  * St. Irenaeus (June 28)
-  * St. Raphael (October 24)
-
-* Transferred:
-  * St. Leo II (From 28 June to 3 July)
+* *Sanctissimus Dominus* (October 1921)
+  * New:
+    * Feast of the Holy Family (Sunday in Octave of Epiphany)
+    * St. Gabriel (March 24)
+    * St. Irenaeus (June 28)
+    * St. Raphael (October 24)
+  * Transferred:
+    * St. Leo II (From 28 June to 3 July)
 
 1925
 ----
-*Quas primas* (December 1925)
+* *Quas primas* (December 1925)
   * New: Feast of Christ the King (Last Sunday of October)
 
 1929
 ----
-After *Miserentissimus Redemptor* (May 1928) raises the feast of the Sacred Heart in rank, the S.C.R. composes new Mass and Office for the feast and octave
-
-* Changed: Feast of the Sacred Heart raised in rank to double of the 1st class with privileged octave (highest rank) and re-written with all-new texts and chants
+* After *Miserentissimus Redemptor* (May 1928) raises the feast of the Sacred Heart in rank, the S.C.R. composes new Mass and Office for the feast and octave
+  * Changed: Feast of the Sacred Heart raised in rank to double of the 1st class with privileged octave (highest rank) and re-written with all-new texts and chants
 
 1950
 ----
-*Munificentissimus Deus* (November 1950)
+* *Munificentissimus Deus* (November 1950)
   * Changed: Feast of the Assumption has new Mass (Orationes, Lectiones, Int., Grad., Offert., Comm.) and Office (1V Hymn., Cap., Ora.)
 
 1951
 ----
-*Dominicae ressurectionis* (February 1951)
+* *Dominicae resurrectionis* (February 1951)
   * New: (optional) solemn Paschal vigil at night
 
 1954
@@ -57,7 +54,7 @@ After *Miserentissimus Redemptor* (May 1928) raises the feast of the Sacred Hear
 
 1955
 ----
-*Cum nostra haec aetate* (March 1955)
+* *Cum nostra haec aetate* (March 1955)
   * Rubrics changed to eliminate octaves and vigils for lesser feasts
   * Also, number of collects is limited to three at Low Mass, one at High Mass
   * Classification of feasts simplified:
@@ -79,8 +76,7 @@ After *Miserentissimus Redemptor* (May 1928) raises the feast of the Sacred Hear
     * St. Thomas
     * All Saints
     * All those in proper calendars
-
-* New: Feast of St. Pius X (September 3)
+  * New: Feast of St. Pius X (September 3)
 
 * New: Feast of St. Joseph the Worker (May 1)
   * Transferred: feast of Ss. Phillip and James to May 11
@@ -92,28 +88,28 @@ After *Miserentissimus Redemptor* (May 1928) raises the feast of the Sacred Hear
 
 1960
 ----
-*Codex Rubricarum* (July 1960, effective January 1961)
-* Classification of feasts simplified:
-  * I classis = duplicia I classis
-  * II classis = duplicia II classis
-  * III classis = duplicia maiora, duplicia minora, semiduplicia (simplicia)
-  * *Commemoratione* = commemoratione, simplicia
-* New:
-  * Baptism of the Lord (January 13)
-  * St. Gregory Barbarigo (June 17)
-  * St. Anthony Mary Claret (October 23)
-* Transferred:
-  * St. Irenaeus (June 28 to July 3)
-  * St. John Mary Vianney (August 9 to August 8)
-* Suppressed:
-  * Chair of St. Peter at Rome (January 18)
-  * Finding of the Holy Cross (May 3)
-  * St. John before the Latin Gate (May 6)
-  * Apparition of St. Michael (May 8)
-  * St. Leo II (July 3)
-  * St. Anacletus (July 13)
-  * St. Peter in Chains (August 1)
-  * Finding of St. Stephen (August 3)
+* *Codex Rubricarum* (July 1960, effective January 1961)
+  * Classification of feasts simplified:
+    * I classis = duplicia I classis
+    * II classis = duplicia II classis
+    * III classis = duplicia maiora, duplicia minora, semiduplicia (simplicia)
+    * *Commemoratione* = commemoratione, simplicia
+  * New:
+    * Baptism of the Lord (January 13)
+    * St. Gregory Barbarigo (June 17)
+    * St. Anthony Mary Claret (October 23)
+  * Transferred:
+    * St. Irenaeus (June 28 to July 3)
+    * St. John Mary Vianney (August 9 to August 8)
+  * Suppressed:
+    * Chair of St. Peter at Rome (January 18)
+    * Finding of the Holy Cross (May 3)
+    * St. John before the Latin Gate (May 6)
+    * Apparition of St. Michael (May 8)
+    * St. Leo II (July 3)
+    * St. Anacletus (July 13)
+    * St. Peter in Chains (August 1)
+    * Finding of St. Stephen (August 3)
 
 1962
 ----
